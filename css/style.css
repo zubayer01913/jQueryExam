@@ -1,0 +1,15 @@
+.album{
+	margin-top:40px; 
+	border: 8px solid #ccc;
+    border-radius: 10px;
+}
+.gallary{
+		margin: 15px;
+}
+.gallary:hover img{
+	opacity: .5;
+ }
+
+.imageText{
+	margin-top:15px;
+}
